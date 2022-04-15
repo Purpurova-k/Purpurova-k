@@ -6,6 +6,13 @@
 - 💞️ I’m looking to collaborate on product company where smart (but novice) Software QA engineers are needed
 - 📫 How to reach me: contact me by email or messenger specified in contacts 
 
+For your convenience here are some of the most interesting projects:
+- [Testing of the complex tour purchase service interacting with DBMS and bank API](https://github.com/Purpurova-k/CourseworkQA);
+- [Manual testing of the clothing store website](https://docs.google.com/spreadsheets/d/1MiZ2-s43pKDH8jZW1_e9BqnsMLFrHUvxUU6M-7WmpVM/edit#gid=0);
+- [Testing with Selenium of the form for card order](https://github.com/Purpurova-k/CardOrder-Selenium);
+- [Testing with Selenide of the form for card delivery](https://github.com/Purpurova-k/CardDelivery-Selenide);
+- [Test-plan for automation testing of the possibility of signing up for training](https://github.com/Purpurova-k/TestPlan).
+
 Tools :hammer_and_wrench:
 - Git
 - DevTools

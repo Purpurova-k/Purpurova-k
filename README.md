@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=195570&lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Purpurova Ekaterina
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning Java & JavaScript
-- 💞️ I’m looking to collaborate on product company where smart (but novice) Software QA engineers are needed
+- 👩🏻‍💻 I’m Junior QA-engineer in Applicatura
+- 🌱 I’m currently learning Java & JavaScript, mobile testing
 - 📫 How to reach me: contact me by email or messenger specified in contacts 
 
 For your convenience here are some of the most interesting projects:
